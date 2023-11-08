@@ -1,0 +1,5 @@
+1. Las varibales no pueden inciar con numeros o caracteres especiales (Guión bajo esta permiotido)
+
+2. Las Variables no pueden tener espacios
+
+3.JavaScript recomienda el uso de camelCase (Iniciar variable en minuscula y si son dos palabras la segunda va pegada y con inicial mayuscula)
