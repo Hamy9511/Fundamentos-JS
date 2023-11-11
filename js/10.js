@@ -15,3 +15,6 @@ const cliente = {
 
 const {tipo} = cliente
 console.log(tipo)
+
+//En un objeto destructuras segun la propiedad o nombre de propiedad del objeto
+//En los arreglos es por posicion de la proiedad
