@@ -13,3 +13,4 @@ const sumar1 = function(){   //EN ESTE CASO ES UN FUNCTION EXPRESION PORQUE VA D
 }
 
 sumar1()
+
